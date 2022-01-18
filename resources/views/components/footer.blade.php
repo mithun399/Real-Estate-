@@ -89,24 +89,8 @@
                         </ul>
 
                     </div>
-                    <div class="flex-1 px-6">
-                        <ul>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                        </ul>
-
-                    </div>
-                    <div class="flex-1 px-6">
-                        <ul>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                            <li><a href="">Lorem, ipsum dolor.</a></li>
-                        </ul>
-
-                    </div>
+                 
+                   
                 </div>
 
             </div>

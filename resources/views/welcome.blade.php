@@ -6,4 +6,16 @@
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae, quibusdam.</p>
 </div>
 </div>
+<div class="py-32 text-center">
+    <div class="container">
+        <h2 class="font-bold text-4xl mb-6">Lorem ipsum dolor sit, amet consectetur <br> adipisicing elit. Doloribus <span class="underline">excepturi vitae</span> Lorem, ipsum. </h2>
+        <p class="text-gray-500 text-2xl font-bold mb-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, adipisci.</p>
+
+        <a class="border-2 border-gray-700 rounded-2xl text-xl px-2 py-3 inline-block" href="">Start The Searching</a>
+        <h2 class="font-bold text-4xl mb-6 mt-20">Lorem ipsum dolor sit, amet consectetur <br> adipisicing elit.<span class="underline">excepturi vitae</span></h2>
+    </div>
+
+</div>
+
+
 </x-guest-layout>
